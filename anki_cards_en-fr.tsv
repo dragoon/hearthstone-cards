@@ -6,7 +6,6 @@ Métamorphose : sanglier	Polymorph: Boar
 Aspirant de Dalaran	Dalaran Aspirant
 Jette-sorts	Spellslinger
 Drake de Frimarra	Coldarra Drake
-Rhonin	Rhonin
 Dompteur de béliers	Ram Wrangler
 Championne sacrée	Holy Champion
 Rejeton des Ombres	Spawn of Shadows
@@ -42,7 +41,6 @@ Chevalier des étendues sauvages	Knight of the Wild
 Druidesse du Sabre	Druid of the Saber
 Communion astrale	Astral Communion
 Charpie	Mulch
-Aviana	Aviana
 Rohart totémique	Tuskarr Totemic
 Grave-totem draeneï	Draenei Totemcarver
 Vague de soins	Healing Wave
@@ -70,7 +68,6 @@ Renforcement	Bolster
 Partenaire d’entraînement	Sparring Partner
 Cap’taine céleste Kragg	Skycap'n Kragg
 Championne d’Alexstrasza	Alexstrasza's Champion
-Varian Wrynn	Varian Wrynn
 Esprit combatif	Competitive Spirit
 Sceau des champions	Seal of Champions
 Maître des chevaux de guerre	Warhorse Trainer
@@ -84,7 +81,6 @@ Modeste écuyer	Lowly Squire
 Chevaucheur de faucon-dragon	Dragonhawk Rider
 Porte-lance	Lance Carrier
 Damoiselle du Lac	Maiden of the Lake
-Saboteur	Saboteur
 Cavalier d’Argent	Argent Horserider
 Champion de Mogor	Mogor's Champion
 Lieutenant de la garde d’os	Boneguard Lieutenant
@@ -157,8 +153,6 @@ Dragon affamé	Hungry Dragon
 Chambellan Executus	Majordomo Executus
 Empereur Thaurissan	Emperor Thaurissan
 Rend Main-Noire	Rend Blackhand
-Nefarian	Nefarian
-Chromaggus	Chromaggus
 Technicienne de l’Aile noire	Blackwing Technician
 Corrupteur de l’Aile noire	Blackwing Corruptor
 Raza l’Enchaîné	Raza the Chained
@@ -213,7 +207,6 @@ Puissance chapardée	Pilfered Power
 Rêveuse céleste	Celestial Dreamer
 Chimiste de la Kabale	Kabal Chemist
 Potion de métamorphose	Potion of Polymorph
-Kazakus	Kazakus
 Projectiles des Arcanes majeurs	Greater Arcane Missiles
 Prêtre de la serre de la Kabale	Kabal Talonpriest
 Pièce contrefaite	Counterfeit Coin
@@ -314,7 +307,6 @@ Intelligence des Arcanes	Arcane Intellect
 Explosion des Arcanes	Arcane Explosion
 Nova de givre	Frost Nova
 Image miroir	Mirror Image
-Blizzard	Blizzard
 Boule de feu	Fireball
 Javelot de glace	Ice Lance
 Choc de flammes	Flamestrike
@@ -331,7 +323,6 @@ Trait de l’ombre	Shadow Bolt
 Diablotin de sang	Blood Imp
 Drain de vie	Drain Life
 Flammes infernales	Hellfire
-Corruption	Corruption
 Infernal de l’effroi	Dread Infernal
 Marcheur du Vide	Voidwalker
 Attaque sournoise	Backstab
@@ -339,7 +330,6 @@ Sang froid	Cold Blood
 Poison mortel	Deadly Poison
 Attaque pernicieuse	Sinister Strike
 Assassiner	Assassinate
-Sprint	Sprint
 Lame d’assassin	Assassin's Blade
 Marque du chasseur	Hunter's Mark
 Bénédiction de puissance	Blessing of Might
@@ -350,7 +340,6 @@ Bénédiction des rois	Blessing of Kings
 Consécration	Consecration
 Marteau de courroux	Hammer of Wrath
 Championne en vrai-argent	Truesilver Champion
-Charge	Charge
 Saccager	Rampage
 Frappe héroïque	Heroic Strike
 Hache de guerre embrasée	Fiery War Axe
@@ -463,14 +452,12 @@ Prêtresse de la Cabale	Cabal Shadow Priest
 Défenseur d’Argus	Defender of Argus
 Commissaire-priseur	Gadgetzan Auctioneer
 Amasseur de butin	Loot Hoarder
-Abomination	Abomination
 Chroniqueur Cho	Lorewalker Cho
 Démolisseur	Demolisher
 Voyant froide-lumière	Coldlight Seer
 Géant des montagnes	Mountain Giant
 Cairne Sabot-de-Sang	Cairne Bloodhoof
 Gelbin Mekkanivelle	Gelbin Mekkatorque
-Leeroy Jenkins	Leeroy Jenkins
 Éviscération	Eviscerate
 Trahison	Betrayal
 Dissimuler	Conceal
@@ -505,7 +492,6 @@ Horion de terre	Earth Shock
 Maléfice	Hex
 Hache de Forge-foudre	Stormforged Axe
 Esprit farouche	Feral Spirit
-Baron Geddon	Baron Geddon
 Élémentaire de terre	Earth Elemental
 Fourche d’éclairs	Forked Lightning
 Élémentaire délié	Unbound Elemental
@@ -538,7 +524,6 @@ Détection des démons	Sense Demons
 Diablotin des flammes	Flame Imp
 Plaie funeste	Bane of Doom
 Seigneur Jaraxxus	Lord Jaraxxus
-Silence	Silence
 Folie de l’ombre	Shadow Madness
 Rejeton de lumière	Lightspawn
 Vol d’esprit	Thoughtsteal
@@ -556,7 +541,6 @@ Colère divine	Holy Wrath
 Main de protection	Hand of Protection
 Repentir	Repentance
 Garde-paix de l’Aldor	Aldor Peacekeeper
-Tirion Fordring	Tirion Fordring
 Courroux vengeur	Avenging Wrath
 Guerrier tauren	Tauren Warrior
 Heurtoir	Slam
@@ -592,19 +576,12 @@ Fusée éclairante	Flare
 Courroux bestial	Bestial Wrath
 Piège à serpents	Snake Trap
 Golem des moissons	Harvest Golem
-Nat Pagle	Nat Pagle
-Harrison Jones	Harrison Jones
 Archimage Antonidas	Archmage Antonidas
-Nozdormu	Nozdormu
-Alexstrasza	Alexstrasza
-Onyxia	Onyxia
-Malygos	Malygos
 Manipulateur sans-visage	Faceless Manipulator
 Totem Langue de feu	Flametongue Totem
 Marteau-du-Destin	Doomhammer
 Morsure	Bite
 Force de la nature	Force of Nature
-Ysera	Ysera
 Cénarius	Cenarius
 Totem de vague de mana	Mana Tide Totem
 La Bête	The Beast
@@ -631,7 +608,6 @@ Tir de précision	Snipe
 Piège explosif	Explosive Trap
 Piège givrant	Freezing Trap
 Mage du Kirin Tor	Kirin Tor Mage
-Edwin VanCleef	Edwin VanCleef
 Illidan Hurlorage	Illidan Stormrage
 Âme en peine de mana	Mana Wraith
 Tir meurtrier	Deadly Shot
@@ -651,12 +627,9 @@ Ombre de Naxxramas	Shade of Naxxramas
 Œuf de nérubien	Nerubian Egg
 Chevalier spectral	Spectral Knight
 Seigneur de la mort	Deathlord
-Maexxna	Maexxna
 Tisseuse	Webspinner
 Crache-vase	Sludge Belcher
 Kel’Thuzad	Kel'Thuzad
-Stalagg	Stalagg
-Feugen	Feugen
 Âme gémissante	Wailing Soul
 Seigneur de la toile nérub’ar	Nerub'ar Weblord
 Dupliquer	Duplicate
@@ -707,19 +680,15 @@ Recyclage	Recycle
 Sylvenier du Bosquet	Grove Tender
 Arbre de vie	Tree of Life
 Méca chat-ours	Mech-Bear-Cat
-Malorne	Malorne
 Masse de puissance	Powermace
 Zap-o-matic tournoyant	Whirling Zap-o-matic
 Crépitement	Crackle
 Totem de vitalité	Vitality Totem
 Marche-esprit aileron vaseux	Siltfin Spiritwalker
 Sombres feux follets	Dark Wispers
-Neptulon	Neptulon
-Glaivezooka	Glaivezooka
 Char araignée	Spider Tank
 Éruption de diablotins	Imp-losion
 Roi des bêtes	King of Beasts
-Sabotage	Sabotage
 Bondisseur dent-de-métal	Metaltooth Leaper
 Gahz’rilla	Gahz'rilla
 Lame rebondissante	Bouncing Blade
@@ -735,7 +704,6 @@ Rouage-marteau	Coghammer
 Intendant	Quartermaster
 Régiment de bataille	Muster for Battle
 Gardien de cobalt	Cobalt Guardian
-Bolvar Fordragon	Bolvar Fordragon
 Saute-flaque	Puddlestomper
 Brute ogre	Ogre Brute
 Chaman cognedune	Dunemaul Shaman
@@ -766,7 +734,6 @@ Bombardier cinglé	Madder Bomber
 Annulateur d’Arcane X-21	Arcane Nullifier X-21
 Expérimentateur gnome	Gnomish Experimenter
 Cible leurre	Target Dummy
-Jeeves	Jeeves
 Sapeur gobelin	Goblin Sapper
 Déchiqueteur piloté	Piloted Shredder
 Mini exorciste	Lil' Exorcist
@@ -787,33 +754,24 @@ Tête de Mimiron	Mimiron's Head
 Mogor l’ogre	Mogor the Ogre
 Faucheur 4000	Foe Reaper 4000
 Vieux déchiqueteur de Sneed	Sneed's Old Shredder
-Toshley	Toshley
 Mekgénieur Thermojoncteur	Mekgineer Thermaplugg
 Gazleu	Gazlowe
 Troggzor le Terreminator	Troggzor the Earthinator
 Bling-o-tron 3000	Blingtron 3000
-Hemet Nesingwary	Hemet Nesingwary
 Géant mécanique	Clockwork Giant
 Mini stoppe-sort	Wee Spellstopper
 Cracheur de suie	Soot Spewer
 Garrosh Hurlenfer	Garrosh Hellscream
 Magni Barbe-de-Bronze	Magni Bronzebeard
-Thrall	Thrall
 Morgl l’Oracle	Morgl the Oracle
-Valeera Sanguinar	Valeera Sanguinar
 Maiev Chantelombre	Maiev Shadowsong
 Uther le Porteur de Lumière	Uther Lightbringer
 Dame Liadrin	Lady Liadrin
-Prince Arthas	Prince Arthas
-Rexxar	Rexxar
 Alleria Coursevent	Alleria Windrunner
 Malfurion Hurlorage	Malfurion Stormrage
 Gul’dan	Gul'dan
 Nemsie Nécroflop	Nemsy Necrofizzle
 Jaina Portvaillant	Jaina Proudmoore
-Medivh	Medivh
-Khadgar	Khadgar
-Anduin Wrynn	Anduin Wrynn
 Tyrande Murmevent	Tyrande Whisperwind
 Flibustière fantôme	Phantom Freebooter
 Squelettomancien	Skelemancer
@@ -838,7 +796,6 @@ Fais le mort	Play Dead
 Plaie envahissante	Spreading Plague
 Drain d’âme	Drain Soul
 Cryostase	Cryostasis
-Brrrloc	Brrrloc
 Armure piton-de-feu	Mountainfire Armor
 Lame de sang	Blood Razor
 Baron des os	Bone Baron
@@ -847,7 +804,6 @@ Marche-glace	Ice Walker
 Adjuratrice spectrale	Ghastly Conjurer
 Deuil de la Lumière	Light's Sorrow
 Seigneur de l’effroi abject	Despicable Dreadlord
-Avalanche	Avalanche
 Grognement	Gnash
 Défenseur drakkari	Drakkari Defender
 Clone de glace	Frozen Clone
@@ -889,10 +845,8 @@ Garde noir	Blackguard
 Âmefroide	Coldwraith
 Résurrecteur	Corpse Raiser
 Forge des Âmes	Forge of Souls
-Moorabi	Moorabi
 Le roi-liche	The Lich King
 Trognepus	Rotface
-Gnomeferatu	Gnomeferatu
 Brigue-âme val’kyr	Val'kyr Soulclaimer
 Pisteur recousu	Stitched Tracker
 Ours-requin	Bearshark
@@ -913,7 +867,6 @@ Pillard dure-écaille	Strongshell Scavenger
 Seigneur des cryptes	Crypt Lord
 Scientifique de la peste	Plague Scientist
 Punisseur hachemort	Deathaxe Punisher
-Lilian Voss	Lilian Voss
 Chariot à viande	Meat Wagon
 Champion frisselame	Chillblade Champion
 Simulacre	Simulacrum
@@ -926,17 +879,11 @@ Gul’dan le saccage-sang	Bloodreaver Gul'dan
 Malfurion le Putride	Malfurion the Pestilent
 Jaina liche de givre	Frost Lich Jaina
 Garrosh seigneur du Fléau	Scourgelord Garrosh
-Hadronox	Hadronox
 Souffle de Sindragosa	Breath of Sindragosa
 Venez vous battre !	Bring It On!
-Sindragosa	Sindragosa
 Reine de sang Lana’thel	Blood-Queen Lana'thel
 Étreinte ténébreuse	Embrace Darkness
 Lame-de-l’ombre	Shadowblade
-Prince Keleseth	Prince Keleseth
-Prince Taldaram	Prince Taldaram
-Prince Valanar	Prince Valanar
-Arfus	Arfus
 Coursegivre hyldnir	Hyldnir Frostrider
 Tisse-sort	Spellweaver
 Bolvar sang-de-feu	Bolvar, Fireblood
@@ -968,7 +915,6 @@ Prêtre du festin	Priest of the Feast
 Anomalie arcanique	Arcane Anomaly
 Gardien aviaire	Avian Watcher
 Rôdeur des douves	Moat Lurker
-Moroes	Moroes
 Cavalier en ivoire	Ivory Knight
 Le conservateur	The Curator
 Biographe de Dédain-du-Néant	Netherspite Historian
@@ -984,10 +930,7 @@ Diablotin de Malchezaar	Malchezaar's Imp
 Portail de Forgefer	Ironforge Portal
 Valet de Medivh	Medivh's Valet
 Fourchette mortelle	Deadly Fork
-Zoobot	Zoobot
-Prince Malchezaar	Prince Malchezaar
 Medivh, le Gardien	Medivh, the Guardian
-Barnes	Barnes
 Fou en onyx	Onyx Bishop
 Golem d’argenterie	Silverware Golem
 Corbeau enchanté	Enchanted Raven
@@ -1001,7 +944,6 @@ Conservateur du musée	Museum Curator
 Malédiction de Rafaam	Curse of Rafaam
 Destructeur d’obsidienne	Obsidian Destroyer
 Serpent de la fosse	Pit Snake
-Reno Jackson	Reno Jackson
 Pilleur de tombes	Tomb Pillager
 Élémentaire grondant	Rumbling Elemental
 Gardienne d’Uldaman	Keeper of Uldaman
@@ -1023,7 +965,6 @@ Sélénien de la jungle	Jungle Moonkin
 Djinn des zéphirs	Djinni of Zephyrs
 Sentinelle Anubisath	Anubisath Sentinel
 Diablosaure fossilisé	Fossilized Devilsaur
-Sir Finley Mrrgglton	Sir Finley Mrrgglton
 Brann Barbe-de-Bronze	Brann Bronzebeard
 Élise Cherchétoile	Elise Starseeker
 Pierre d’invocation	Summoning Stone
@@ -1071,7 +1012,6 @@ Runes explosives	Explosive Runes
 Rubis de sort inférieur	Lesser Ruby Spellstone
 Parchemin changeant	Shifting Scroll
 Deck miraculeux	Deck of Wonders
-Aluneth	Aluneth
 Scorpiomatic	Scorp-o-matic
 Élémentaire de cire	Wax Elemental
 Forgeron d’ébène	Ebon Dragonsmith
@@ -1170,7 +1110,6 @@ Déchireur du Vide	Void Ripper
 Gargouille dorée	Gilded Gargoyle
 Mande-dragon Alanna	Dragoncaller Alanna
 Manipulateur tellurique	Leyline Manipulator
-Temporus	Temporus
 Invocatrice malveillante	Spiteful Summoner
 Couve-dragon	Dragonhatcher
 Roi Cire-Pilleur	King Togwaggle
@@ -1201,7 +1140,6 @@ Aile de mort	Deathwing
 Compagnon animal	Animal Companion
 Cri de commandement	Commanding Shout
 Maître fabricant d’épées	Master Swordsmith
-Gruul	Gruul
 Lardeur	Hogger
 Kodo déchaîné	Stampeding Kodo
 Inquisiteur Aileron noir	Vilefin Inquisitor
@@ -1242,7 +1180,6 @@ Conseiller de Sombre-Comté	Darkshire Councilman
 Rituel interdit	Forbidden Ritual
 Folie galopante	Spreading Madness
 Parjurer les ténèbres	Renounce Darkness
-Anomalus	Anomalus
 Cho’gall	Cho'gall
 Mukla, tyran du val	Mukla, Tyrant of the Vale
 Déphaseur Zerus	Shifter Zerus
@@ -1278,7 +1215,6 @@ Hallazèle l’Élevé	Hallazeal the Ascended
 Appel de la nature	Call of the Wild
 Loup contaminé	Infested Wolf
 Brave Sabot-de-Sang	Bloodhoof Brave
-Malkorok	Malkorok
 Héroïne altruiste	Selfless Hero
 Lame de ralliement	Rallying Blade
 Force divine	Divine Strength
@@ -1338,7 +1274,6 @@ Horreur cyclopéenne	Cyclopian Horror
 Nat le sombre pêcheur	Nat, the Darkfisher
 Sectateur Skeram	Skeram Cultist
 Soggoth le Rampant	Soggoth the Slitherer
-Elite Tauren Chieftain	Elite Tauren Chieftain
 Goule mangeuse de chair	Flesheating Ghoul
 Courbe-sort	Spellbender
 Jeune pterreurdactyle	Pterrordax Hatchling
@@ -1355,7 +1290,6 @@ Surgisseur de vapeur	Steam Surger
 Mande-mirage	Mirage Caller
 Liens de mana	Mana Bind
 Volcan	Volcano
-Pyros	Pyros
 Ouverture du portail	Open the Waygate
 Visions de l’Ombre	Shadow Visions
 Soins de lien	Binding Heal
@@ -1435,11 +1369,8 @@ Tempête chatoyante	Shimmering Tempest
 Mande-brasier	Blazecaller
 Drake primordial	Primordial Drake
 Élise la Pionnière	Elise the Trailblazer
-Tyrantus	Tyrantus
 Libéré de l’ambre	Free From Amber
-Hallucination	Hallucination
 Chante-esprit Umbra	Spiritsinger Umbra
-Ozruk	Ozruk
 Grave morsure	Grievous Bite
 Ara orné de joyaux	Jeweled Macaw
 Gardien tol’vir	Tol'vir Warden
