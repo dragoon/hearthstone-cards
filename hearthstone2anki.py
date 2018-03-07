@@ -18,5 +18,7 @@ for lang in langs:
     # output CSV
     out = open("anki_cards_{}-{}.tsv".format(main_lang, lang), "w")
     for card in cards.values():
+        if card['name'] == card['main_name']:
+            continue
         out.write('\t'.join([card['name'], card['main_name']]) + '\n')
     out.close()
