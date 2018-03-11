@@ -10,7 +10,7 @@ def extend_lang(lang: str):
 
 CARDS_API_URL = 'https://api.hearthstonejson.com/v1/23180/{}/cards.collectible.json'
 
-parser = argparse.ArgumentParser(description='Generate heartstone card names as language pairs in CSV format.')
+parser = argparse.ArgumentParser(description='Generate hearthstone card names as language pairs in CSV format.')
 parser.add_argument('--from', dest='main_lang', metavar='FROM_LANG', default='en',
                     help='main language to generate language pairs')
 parser.add_argument('--to', metavar='TO_LANG', nargs='+', default=['fr'],
