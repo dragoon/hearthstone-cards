@@ -14,7 +14,7 @@ parser = argparse.ArgumentParser(description='Generate hearthstone card names as
 parser.add_argument('--from', dest='main_lang', metavar='FROM_LANG', default='en',
                     help='main language to generate language pairs')
 parser.add_argument('--to', metavar='TO_LANG', nargs='+', default=['fr'],
-                    help='foreign languages to generate language pairs')
+                    help='additional foreign languages to generate card names')
 
 args = parser.parse_args()
 
@@ -30,11 +30,11 @@ for lang in destination_langs:
     data = requests.get(CARDS_API_URL.format(extend_lang(lang))).json()
     for card in data:
         if "name" in card:
-            cards[card['dbfId']].update({"flavor": card.get("flavor", ""), "name": card["name"]})
-    # output CSV
-    out = open("anki_cards_{}-{}.tsv".format(main_lang, lang), "w")
-    for card in cards.values():
-        if card['name'] == card['main_name']:
-            continue
-        out.write('\t'.join([card['name'], card['main_name']]) + '\n')
-    out.close()
+            cards[card['dbfId']].update({"flavor_{}".format(lang): card.get("flavor", ""),
+                                         "name_{}".format(lang): card["name"]})
+# output CSV
+out = open("anki_hearthstone_cards.tsv", "w")
+for card in cards.values():
+    extra_names = '\t'.join([card['name_{}'.format(lang)] for lang in destination_langs])
+    out.write('\t'.join([card['main_name'], extra_names]) + '\n')
+out.close()
